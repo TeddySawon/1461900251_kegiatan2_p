@@ -1,0 +1,22 @@
+.jumbatron {
+    padding-top: 2rem;
+    background-color: rgb(176, 240, 241);
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
+.container1 {
+    width: 35%;
+    margin-top: 10%;
+    box-shadow: 0 3px 20px rgb(54, 2, 54);
+    padding: 40px;
+    background-color: #fff;
+}
+.container2 {
+    width: 50%;
+    margin-top: 10%;
+    box-shadow: 0 3px 20px rgb(54, 2, 54);
+    padding: 40px;
+    background-color: #fff;
+}
